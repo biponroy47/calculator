@@ -47,6 +47,11 @@
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
+.display {
+  text-align: right;
+  padding-right: 15px;
+}
+
 .button:hover {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px, inset black 0px 0px 5px 0px;
 }
