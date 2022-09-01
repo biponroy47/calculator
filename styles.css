@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.body {
+  background-color: rgb(29, 29, 29);
+  height: 100vh;
+  padding-top: 1px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.header {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+.number {
+  height: 50px;
+  width: 50px;
+  background-color: white;
+}
