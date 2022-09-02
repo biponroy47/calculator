@@ -50,6 +50,8 @@
 .display {
   text-align: right;
   padding-right: 15px;
+  overflow: scroll;
+  font-size: 40px;
 }
 
 .button:hover {
